@@ -1,0 +1,16 @@
+.brand-wrapper {
+    padding: 15px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.brand-wrapper:hover {
+  background: rgba(192, 192, 192, 0.082);
+  cursor: pointer;
+}
+
+.brand {
+  height: 25px;
+  filter: invert(100%) brightness(100%);
+  display: block;
+}
